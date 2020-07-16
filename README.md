@@ -1,5 +1,5 @@
 # Raj Kumar Kausik
-[![Linkedin Badge](https://img.shields.io/badge/-RajKumarKausik-blue?style=social&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/raj-kumar-kausik/)](https://www.linkedin.com/in/raj-kumar-kausik/) [![Twitter Badge](http://img.shields.io/badge/-@ghumare64-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ghumare64)](https://twitter.com/ghumare64)  [![Medium Badge](https://img.shields.io/badge/-@RohitGhumare-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@rrajkukausik/)](https://medium.com/@ghumare64/)
+[![Linkedin Badge](https://img.shields.io/badge/-RajKumarKausik-blue?style=social&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/raj-kumar-kausik/)](https://www.linkedin.com/in/raj-kumar-kausik/) [![Medium Badge](https://img.shields.io/badge/-@rrajkukausik-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@rrajkukausik/)](https://medium.com/@rrajkukausik/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rrajkukausik@gmail.com)](mailto:rrajkukausik@gmail.com)
 ---
 ## Hi there 👋,           
