@@ -10,7 +10,7 @@ I'm Raj Kumar Kausik, Student at 👨‍💻 National Institute of Science and T
 - 🏄‍ I am Looking forward to contribute in various organisations and Open-Source Projects.
 - 😄 I am an active participant in hackathons and coding challenges.
 - 🔭 I am currently the Representative of Club EXCEL(coding club of my college), Technical Writer and i love building Machine Learning and Deep Learning Models.
-- 🌱 I love speak at public events and been a speaker at many events. I do organise Workshops, Webinars etc to help student Community and I have already conducted 10+ workshops in nearly all schools and colleges in my city with the help of the coding club of my college.
+- 🌱 I love speak at public events and been a speaker at many events. I do organise Workshops, Webinars etc to help student Community and I have already conducted 10+ workshops in nearly all schools and colleges in my city with the cooperation of my Clubmates(Club EXCEL).
 - 👯 And Many more...
 
 # Hello World!! 🤔
