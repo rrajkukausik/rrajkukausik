@@ -3,10 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rrajkukausik@gmail.com)](mailto:rrajkukausik@gmail.com)
 ---
 ## Hi there 👋,           
-I'm Raj Kumar Kausik, Student at 👨‍💻 National Institute of Science and Technology Pursuing Btech in Computer Science and Engineering. I am a Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
+I'm Raj Kumar Kausik, Student at 👨‍💻 National Institute of Science and Technology Pursuing Btech in Computer Science and Engineering.
 
 ## 🧐 About
-- 🤠 I have Completed Data scientist Nanodegree and Deep Learning Nanodegree at Udacity and i was intern of MLOps(integration of Machine Learning and devops) at LinuxWorld Pvt Ltd.
+- 🤠 I have Completed Data scientist Nanodegree and Deep Learning Nanodegree at Udacity and i was intern of MLOps(integration of Machine Learning and devops) at LinuxWorld Pvt Ltd and now working as Software Engineer Intern at Mindfire Solutions Pvt Ltd.
 - 🏄‍ I am Looking forward to contribute in various organisations and Open-Source Projects.
 - 😄 I am an active participant in hackathons and coding challenges.
 - 🔭 I am currently the Representative of Club EXCEL(coding club of my college), Technical Writer and i love building Machine Learning and Deep Learning Models.
